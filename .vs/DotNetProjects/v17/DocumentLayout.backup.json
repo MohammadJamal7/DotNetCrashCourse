@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|c:\\users\\mj266\\desktop\\.net projs\\dotnetprojects\\dotnetprojects\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|solutionrelative:dotnetprojects\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|c:\\users\\mj266\\desktop\\.net projs\\dotnetprojects\\dotnetprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|solutionrelative:dotnetprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|c:\\users\\mj266\\desktop\\.net projs\\dotnetprojects\\dotnetprojects\\controllers\\deptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|solutionrelative:dotnetprojects\\controllers\\deptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|c:\\users\\mj266\\desktop\\.net projs\\dotnetprojects\\dotnetprojects\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|solutionrelative:dotnetprojects\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|c:\\users\\mj266\\desktop\\.net projs\\dotnetprojects\\dotnetprojects\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|solutionrelative:dotnetprojects\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|c:\\users\\mj266\\desktop\\.net projs\\dotnetprojects\\dotnetprojects\\views\\depts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|solutionrelative:dotnetprojects\\views\\depts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|c:\\users\\mj266\\desktop\\.net projs\\dotnetprojects\\dotnetprojects\\models\\dept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|solutionrelative:dotnetprojects\\models\\dept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|c:\\users\\mj266\\desktop\\.net projs\\dotnetprojects\\dotnetprojects\\views\\depts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|solutionrelative:dotnetprojects\\views\\depts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|c:\\users\\mj266\\desktop\\.net projs\\dotnetprojects\\dotnetprojects\\views\\depts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|solutionrelative:dotnetprojects\\views\\depts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|c:\\users\\mj266\\desktop\\.net projs\\dotnetprojects\\dotnetprojects\\views\\depts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE2AC12D-5F1E-4F7F-8F55-26650C6DCDA3}|DotNetProjects\\DotNetProjects.csproj|solutionrelative:dotnetprojects\\views\\depts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DotNetProjects\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DotNetProjects\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:47:09.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Views\\Depts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DotNetProjects\\Views\\Depts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Views\\Depts\\Edit.cshtml",
+              "RelativeToolTip": "DotNetProjects\\Views\\Depts\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T04:23:03.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\appsettings.json",
+              "RelativeDocumentMoniker": "DotNetProjects\\appsettings.json",
+              "ToolTip": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\appsettings.json",
+              "RelativeToolTip": "DotNetProjects\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T19:13:21.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeptsController.cs",
+              "DocumentMoniker": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Controllers\\DeptsController.cs",
+              "RelativeDocumentMoniker": "DotNetProjects\\Controllers\\DeptsController.cs",
+              "ToolTip": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Controllers\\DeptsController.cs*",
+              "RelativeToolTip": "DotNetProjects\\Controllers\\DeptsController.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswF8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:11:38.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Program.cs",
+              "RelativeDocumentMoniker": "DotNetProjects\\Program.cs",
+              "ToolTip": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Program.cs",
+              "RelativeToolTip": "DotNetProjects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:13:20.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Data\\MyAppContext.cs",
+              "RelativeDocumentMoniker": "DotNetProjects\\Data\\MyAppContext.cs",
+              "ToolTip": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Data\\MyAppContext.cs",
+              "RelativeToolTip": "DotNetProjects\\Data\\MyAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:51:05.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dept.cs",
+              "DocumentMoniker": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Models\\Dept.cs",
+              "RelativeDocumentMoniker": "DotNetProjects\\Models\\Dept.cs",
+              "ToolTip": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Models\\Dept.cs*",
+              "RelativeToolTip": "DotNetProjects\\Models\\Dept.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:10:00.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Views\\Depts\\Index.cshtml",
+              "RelativeDocumentMoniker": "DotNetProjects\\Views\\Depts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Views\\Depts\\Index.cshtml*",
+              "RelativeToolTip": "DotNetProjects\\Views\\Depts\\Index.cshtml*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T18:15:05.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Views\\Depts\\Create.cshtml",
+              "RelativeDocumentMoniker": "DotNetProjects\\Views\\Depts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Views\\Depts\\Create.cshtml",
+              "RelativeToolTip": "DotNetProjects\\Views\\Depts\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T19:38:31.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Views\\Depts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DotNetProjects\\Views\\Depts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mj266\\Desktop\\.Net projs\\DotNetProjects\\DotNetProjects\\Views\\Depts\\Delete.cshtml",
+              "RelativeToolTip": "DotNetProjects\\Views\\Depts\\Delete.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T05:13:49.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

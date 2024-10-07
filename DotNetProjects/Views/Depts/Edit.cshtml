@@ -1,0 +1,23 @@
+﻿@model DotNetProjects.Models.Dept
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<form asp-action="Edit" method="post">
+	<div class="form-group">
+		<label for="Desc">Desc</label>
+		<input type="text" class="form-control" asp-for="Description" />
+	</div>
+
+	<div class="form-group">
+		<label for="Price">Price:</label>
+		<input type="number" class="form-control" asp-for="Price" />
+	</div>
+	<div class="form-group">
+		<label for="Location">Location:</label>
+		<input type="text" class="form-control" asp-for="Location" />
+	</div>
+
+	<button class="btn btn-primary">Submit</button>
+</form>

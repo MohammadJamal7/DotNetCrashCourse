@@ -1,0 +1,41 @@
+﻿@model List<DotNetProjects.Models.Dept>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<h1>Discover all departments in one page!</h1>
+<form asp-action="Create" method="post">
+
+	<button type="submit" class="btn btn-outline-primary">Add</button>
+</form>
+
+<br/>
+
+<table class="table ">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Desc</th>
+			<th>Price</th>
+			<th>Location</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.id</td>
+				<td>@item.Description</td>
+				<td>$ @item.Price.ToString("N2")</td>
+				<td>@item.Location</td>
+				              
+			  	  <td>
+			  <a asp-action="Edit" asp-route-id="@item.id" class="btn btn-success" >Edit</a>
+			  <a asp-action="Delete" asp-route-id="@item.id" class="btn btn-danger">Delete</a>
+			  </td> 
+			</tr>
+		}
+
+	</tbody>
+</table>

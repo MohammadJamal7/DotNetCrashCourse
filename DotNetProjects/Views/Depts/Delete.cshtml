@@ -1,0 +1,20 @@
+﻿@model DotNetProjects.Models.Dept
+@{
+    ViewData["Title"] = "Delete";
+}
+
+
+<h2>Are you sure to delete this department?</h2>
+
+<br />
+<p>ID : @Model.id</p>
+<p>Desc : @Model.Description</p>
+<p>Price : $@Model.Price</p>
+<p>Location : @Model.Location</p>
+
+<br />
+<form asp-action="Delete" method="post">
+
+    <input type="hidden" asp-for="id" value="@Model.id" />
+    <input type="submit" class="btn btn-danger" value="Delete" />
+</form>
